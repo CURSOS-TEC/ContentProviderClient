@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContentClient</string>
+    <string name="main_activity_label_1"> Last image</string>
 </resources>

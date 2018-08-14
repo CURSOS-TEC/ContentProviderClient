@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.soa4id.tec.contentclient">
 
-
+    <uses-permission android:name="com.soa4id.tec.shareactionsender.PERMISSION"></uses-permission>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
